@@ -14,7 +14,7 @@ WORKDIR /app
 COPY . .
 
 # Compilar o código
-RUN g++ -o sistema main.cpp -lpqxx -lpq
+RUN g++ -o sistema maincc.cpp -lpqxx -lpq
 
 # Comando para rodar o sistema
 CMD ["./sistema"]
