@@ -15,9 +15,9 @@ const perfis = [
     avatar: "https://i.pravatar.cc/150?img=33",
   },
   {
-    nome: "Ana Beatriz",
+    nome: "Pedro",
     profissao: "Designer de Produto",
-    avatar: "https://i.pravatar.cc/150?img=45",
+    avatar: "https://i.pravatar.cc/150?img=68",
   },
 ];
 
