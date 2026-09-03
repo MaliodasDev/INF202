@@ -1,1 +1,3 @@
-# -INF-102-TRABALHOS-2026-I_-ErickXavier-
+# INF-202
+# 28006 - Pedro Henrique Gomes
+# 27964 - Erick Xavier
